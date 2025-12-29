@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "QuotesKit",
             url: "https://github.com/HWTE-Q-CMSW/QuotesKit-Binary/releases/download/1.0.0/QuotesKit.xcframework.zip",
-            checksum: "cb4401b697a94b8057239ae58fdaecc5d18df7a99b544ecac840486abcb945c1"
+            checksum: "200fa75b621c87fc86afc215058c69f8f5dcb93bdb15c64940b8d962774739b3"
         ),
     ]
 )
